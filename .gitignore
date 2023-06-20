@@ -1,3 +1,9 @@
+*.iml
 .gradle
-.idea
-MVVM-Kotlin.iml
+/local.properties
+.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+**/.cxx
